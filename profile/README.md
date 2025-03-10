@@ -1,12 +1,30 @@
-## Hi there 👋
+# 🎓 Graduation Thesis Repository  
 
-<!--
+Welcome to the official repository for my graduation thesis! This repository contains all the essential resources related to my thesis, including an application model and a downloadable thesis file.  
 
-**Here are some ideas to get you started:**
+## 📌 Introduction  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This repository includes:  
+
+✅ **Application Model** – A general overview of the application architecture.  
+✅ **Downloadable Thesis** – The full thesis document in PDF format.  
+
+---  
+
+## 🏗️ Application Model  
+
+Below is a high-level model representing the application's architecture:  
+
+![Application Model](image.png)  
+
+---  
+
+## 📄 Download Thesis  
+
+📥 Click the link below to download the full thesis document in PDF format:  
+
+🔗 [Download Thesis](../../baocaokltn_21520714_trinhtandat.pdf)  
+
+---  
+
+Thank you for visiting this repository! 🚀  
