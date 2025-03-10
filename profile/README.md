@@ -4,7 +4,6 @@ Welcome to the official repository for my graduation thesis! This repository con
 
 ## 📌 Introduction  
 
-This repository includes:  
 
 ✅ **Application Model** – A general overview of the application architecture.  
 ✅ **Downloadable Thesis** – The full thesis document in PDF format.  
