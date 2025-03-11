@@ -22,7 +22,7 @@ Below is a high-level model representing the application's architecture:
 
 📥 Click the link below to download the full thesis document in PDF format:  
 
-🔗 [Download Thesis](../../baocaokltn_21520714_trinhtandat.pdf)  
+🔗 [Download Thesis](baocaokltn_21520714_trinhtandat.pdf)  
 
 ---  
 
